@@ -18,21 +18,12 @@ Please refer to the documentation for detailed usage instructions and examples.
 
 ## Contributors
 
-- [Your Name]
-- [Contributor Name 2]
-- [Contributor Name 3]
+- 
 
 ## Feedback
 
-We welcome any feedback or suggestions for improving the app. Please feel free to open an issue or submit a pull request with your ideas!
+I welcome any feedback or suggestions for improving the app. Please feel free to open an issue or submit a pull request with your ideas!
 
 ## License
 
-This project is licensed under the [License Name] License. See the LICENSE.md file for details.
-
-## Acknowledgements
-
-We would like to thank the following individuals and organizations for their contributions and support:
-- [Client Name]
-- [Organization Name]
-- [Special Thanks to...]
+This project is licensed under the Unlicense. See the LICENSE.md file for details.
