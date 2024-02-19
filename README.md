@@ -12,9 +12,19 @@ Welcome to the Image-to-Speech Converter app! This application allows users to c
 - **PDF Text Extraction**: Employs PyMuPDF (fitz) for extracting text from PDF files, enhancing versatility.
 - **Accessible User Interface**: Designed with Tkinter for an intuitive and user-friendly graphical interface, with features like keyboard shortcuts and audio cues for improved accessibility.
 
-## Usage
+## Installation
 
-Please refer to the documentation for detailed usage instructions and examples.
+### Mac
+1. Download the DMG file for Mac installation.
+2. Double-click the DMG file to mount the disk image.
+3. Drag the `.app` file to your Applications folder to install the app.
+
+### Windows
+1. Download the EXE file for Windows installation.
+2. Extract the contents of the ZIP file.
+3. Place the `internal` folder in the same directory as the EXE file.
+
+That's it! You're now ready to use the Image/PDF-to-Speech Converter app on your Mac or Windows system. If you encounter any issues or have feedback, feel free to reach out to me.
 
 ## Contributors
 
