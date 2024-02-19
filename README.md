@@ -28,4 +28,4 @@ I welcome any feedback or suggestions for improving the app. Please feel free to
 
 This project is licensed under the Unlicense. See the LICENSE.md file for details.
 
-## this is written by chatgpt lol
+this is written by chatgpt lol
